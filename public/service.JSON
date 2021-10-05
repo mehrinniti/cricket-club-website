@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.rp-assets.com/images/news/2019/05/12/61514-large.jpeg",
+        "name": "Hand-Eye Coordination and Batting Technique",
+        "fee": "$40",
+        "coach": "Sanjay Bangar"
+    },
+    {
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1599982917650-21da4d09c437?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=952&q=80",
+        "name": "Hand-Eye Coordination with Throwing & Catching ",
+        "fee": "$35",
+        "coach": "Anil Kumble"
+    },
+    {
+        "id": 3,
+        "img": "https://resources.pulse.icc-cricket.com/photo-resources/2020/02/09/9954fe4a-89a0-4921-bf68-0ca0e7caf93b/GettyImages-1199285674-Cropped.jpg?width=845&height=528",
+        "name": "Fast Bowling Technique",
+        "fee": "$45",
+        "coach": "Ravi Shastri"
+    },
+    {
+        "id": 4,
+        "img": "https://staticg.sportskeeda.com/wp-content/uploads/2016/07/mustafizur-rahman-bangladesh-cricket-1469970261-800.jpg",
+        "name": "Swing Bowling Technique",
+        "fee": "$45",
+        "coach": "Rahul Dravid"
+    },
+    {
+        "id": 5,
+        "img": "https://www.cricfrenzy.com/imagestorages/app/2021-05/cricfrenzy1622457911167A0634%20(1).JPG",
+        "name": "Spin Bowling Technique",
+        "fee": "$45",
+        "coach": "John Wright"
+    },
+    {
+        "id": 6,
+        "img": "https://www.espncricinfo.com/db/PICTURES/CMS/259400/259428.3.jpg",
+        "name": "Exercise",
+        "fee": "$20",
+        "coach": "Greg Chappell"
+    },
+    {
+        "id": 7,
+        "img": "https://media-eng.dhakatribune.com/uploads/2018/10/mitu-1540398573429.jpg",
+        "name": "Wicket keeping",
+        "fee": "$30",
+        "coach": "Gary Kirsten"
+    },
+    {
+        "id": 8,
+        "img": "https://p.imgci.com/db/PICTURES/CMS/216100/216101.jpg",
+        "name": "Teach Flowrent English",
+        "fee": "$35",
+        "coach": "Duncan Fletcher"
+    }
+]

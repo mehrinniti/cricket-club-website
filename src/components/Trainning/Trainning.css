@@ -1,0 +1,21 @@
+.Home{
+
+    background:linear-gradient(rgba(0, 0, 0, 0.39),rgba(0, 0, 0, 0.39)), url("https://resources.pulse.icc-cricket.com/photo-resources/2021/03/25/0a50b69c-a940-4de3-996c-cb9a185d9908/GettyImages-1227760282.jpg?width=2000&height=600");
+    width: 100%;
+    height: 400px;
+}
+.title{
+    text-align: left;
+    /* margin-top: 150px; */
+    margin-left: 40px;
+    margin-top: 13px;
+    padding-top: 150px;
+    color:whitesmoke;
+
+}
+.icon{
+    font-size: 60px;
+}
+.test-cricket:hover .icon{
+    color: rgba(52, 97, 233, 0.692);
+}

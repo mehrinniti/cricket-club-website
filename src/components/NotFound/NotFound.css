@@ -1,0 +1,13 @@
+.error-btn{
+    background-color: rgba(73, 108, 212, 0.87) !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.error-img{
+    margin-top: 50px;
+    margin-bottom: 22px;
+}
