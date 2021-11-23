@@ -1,5 +1,6 @@
 ## Cricket Club
-## <a href='https://cricket-club-niti.netlify.app/'>Live link<a>
+
+## <a href='https://cricket-club-niti.netlify.app/'>Visit our website<a>
 
 <ul>
     <li>Trained By Best Coaches</li>
